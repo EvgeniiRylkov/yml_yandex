@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<yml_catalog date="2025-02-01T00:00">
+    <shop>
+        <name>LetsGoKayak</name>
+        <url>https://letsgokayak.ru/</url>
+        <picture>https://activities.s3.yandex.net/logo.png</picture>
+        <categories>
+            <category id="44">Водные прогулки</category>
+        </categories>
+        <offers>
+            <!-- Valid offer expample -->
+            <offer id="unique-offer-id">
+                <categoryId>44</categoryId>
+                <currencyId>RUB</currencyId>
+                <price>4000</price>
+                <name>Однодневный тур на каяках по шхерам Ладоги</name>
+                <description>Прогулка на каяках по Ладожским шхерам с пикником и возхождением на видовую точку</description>
+                <url>https://letsgokayak.ru/kayakdaytour-iyoki</url>
+                <picture>https://optim.tildacdn.com/tild6265-6236-4966-a364-623635333738/-/format/webp/photo_2024-03-25_10-.jpg</picture>
+                <picture>https://optim.tildacdn.com/tild3034-3933-4638-b830-336132636637/-/format/webp/photo_2024-06-04_23-.jpg</picture>
+                <picture>https://optim.tildacdn.com/tild3536-3735-4339-a230-353763363434/-/format/webp/IMG_20200829_124933.jpg</picture>
+                <param name="short_name">Прогулка на каяках по Ладоге</param>
+                <param name="short_descritpion">Прогулка на каяках по Ладожским шхерам</param>
+                <param name="event_id">111</param>
+                <param name="tags">тур; водная прогулка; экскурсия; активный отдых; каякинг</param>
+                <param name="age_restriction">18+</param>
+                <param name="is_free">false</param>
+                <param name="is_online">false</param>
+                <param name="has_tickets">true</param>
+                <param name="place_name">Пункт проката каяков в кемпинги «IYOKI» п.Лумиваара</param>
+                <param name="place_address">Республика Карелия, национальный парк Ладожские шхеры</param>
+                <param name="place_city">Лумиваара</param>
+                <param name="place_country_code">RU</param>
+                <param name="place_lon">61.43177000000000</param>
+                <param name="place_lat">30.20090900000000</param>
+                <param name="place_timezone">Europe/Moscow</param>
+                <param name="place_phones">+7(921)950-35-10;</param>
+                <param name="place_urls">https://letsgokayak.ru/#location; https://yandex.ru/maps/-/CHeiq8ng</param>
+                <param name="start_date">2025-05-10</param>
+                <param name="end_date">2025-09-01</param>
+                <param name="start_time">12:00:00</param>
+                <param name="prices">4000</param>
+                <param name="duration_min">240</param>
+            </offer>
+        </offers>
+    </shop>
+</yml_catalog>
