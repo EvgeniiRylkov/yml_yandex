@@ -35,7 +35,7 @@
                 <param name="place_lat">30.20090900000000</param>
                 <param name="place_timezone">Europe/Moscow</param>
                 <param name="place_phones">+7(921)950-35-10;</param>
-                <param name="place_urls">https://letsgokayak.ru/#location; https://yandex.ru/maps/-/CHeiq8ng</param>
+                <param name="place_urls">https://yandex.ru/maps/-/CHeiq8ng</param>
                 <param name="start_date">2025-05-10</param>
                 <param name="end_date">2025-09-01</param>
                 <param name="start_time">12:00:00</param>
